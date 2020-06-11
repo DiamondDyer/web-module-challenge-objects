@@ -10,7 +10,7 @@ function createMenuItem(name, cost, category){
     /* Code here */
 }
 
-/* Task 1b: use your function to create 3 more menu items. You may add any items to the menu that you'd like */
+/* Task 1b: use your function to create 3 more menu items. You may add any items to the menu that you'd like. */
 
 
 
